@@ -20,3 +20,4 @@ plt.title('this is a demo')
 plt.legend()    # 将样例显示出来
 plt.plot()
 plt.show()
+# 测试一次
